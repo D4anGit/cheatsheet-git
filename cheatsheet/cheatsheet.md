@@ -23,3 +23,6 @@ git checkout nieuwe-branch
 
 ## Branch pushen
 git push origin nieuwe-branch
+
+## extra tips
+git status
